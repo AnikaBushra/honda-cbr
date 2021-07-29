@@ -1,0 +1,12 @@
+.client-color{
+    color: rgb(30, 30, 78);
+}
+.client{
+    color: rgb(255, 145, 0);
+}
+.grey-scale{
+    filter:grayscale(100%)
+}
+.star{
+    color: rgb(255, 145, 0);
+}
